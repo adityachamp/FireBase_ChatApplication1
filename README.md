@@ -4,13 +4,13 @@ I used Google FireBase to create this Application.
 I achieved the following:
 
 /*
-Firebase Authentication
-Firebase Realtime Database
-Firebase Cloud Messaging
-Firebase Remote Config
-Google Analytics for Firebase
-Firebase App Invites
-Monetizing with AdMob
-Firebase Crash Reporting
+Firebase Authentication,
+Firebase Realtime Database,
+Firebase Cloud Messaging,
+Firebase Remote Config,
+Google Analytics for Firebase,
+Firebase App Invites,
+Monetizing with AdMob,
+Firebase Crash Reporting,
 Firebase Test Lab for Android
 */
