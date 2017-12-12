@@ -50,8 +50,6 @@ public class SampleTests extends ActivityInstrumentationTestCase2<MainActivity> 
         assertNotNull("mTestActivity is null", mTestActivity);
     }
 
-    /**
-    * Add more tests below.
-    */
+   
 
 }
